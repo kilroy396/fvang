@@ -4,3 +4,4 @@
 .coverage
 .idea
 ansible/*.retry
+*console.log
